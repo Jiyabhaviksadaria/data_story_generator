@@ -50,9 +50,10 @@ streamlit run app.py
 ## 👤 Author
 
 **Your Name**
-- GitHub: @yourusername
-- Email: your.email@example.com
+- GitHub:jiyabhaviksadaria
+- Email: jiyasadaria@gmail.com
 
 ## 📄 License
+
 
 MIT License
