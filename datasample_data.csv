@@ -1,0 +1,22 @@
+Date,Product,Category,Region,Sales,Units,Customer_Satisfaction
+2024-01-15,Laptop Pro,Electronics,North,1299.99,45,4.5
+2024-01-16,Wireless Mouse,Electronics,South,29.99,120,4.2
+2024-01-17,Office Chair,Furniture,East,189.99,32,4.7
+2024-01-18,Standing Desk,Furniture,West,449.99,18,4.8
+2024-01-19,USB-C Cable,Electronics,North,19.99,200,4.0
+2024-01-20,Monitor 27inch,Electronics,South,349.99,55,4.6
+2024-01-21,Desk Lamp,Furniture,East,45.99,78,4.3
+2024-01-22,Keyboard,Electronics,West,79.99,95,4.4
+2024-01-23,Notebook Set,Office Supplies,North,12.99,150,4.1
+2024-01-24,Pen Pack,Office Supplies,South,8.99,250,3.9
+2024-01-25,Laptop Pro,Electronics,East,1299.99,38,4.6
+2024-01-26,Wireless Mouse,Electronics,West,29.99,110,4.3
+2024-01-27,Office Chair,Furniture,North,189.99,28,4.5
+2024-01-28,Standing Desk,Furniture,South,449.99,22,4.9
+2024-01-29,USB-C Cable,Electronics,East,19.99,180,4.1
+2024-01-30,Monitor 27inch,Electronics,West,349.99,48,4.7
+2024-02-01,Desk Lamp,Furniture,North,45.99,65,4.2
+2024-02-02,Keyboard,Electronics,South,79.99,88,4.5
+2024-02-03,Notebook Set,Office Supplies,East,12.99,175,4.0
+2024-02-04,Pen Pack,Office Supplies,West,8.99,280,4.0
+2024-02-05,Laptop Pro,Electronics,North,1299.99,52,4.7
